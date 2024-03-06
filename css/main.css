@@ -1,0 +1,17 @@
+/*slogun style*/
+main .slogun {
+  padding: 35vh 2rem 0;
+  opacity: 1;
+  transform: translateY(0px);
+}
+@media screen and (max-width: 1100px) {
+  main .slogun {
+    padding: 40vh 5% 0;
+  }
+}
+
+@media screen and (max-width: 1400px) {
+  main .slogun {
+    padding: 40vh 1rem 0;
+  }
+}
